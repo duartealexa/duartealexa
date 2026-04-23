@@ -1,14 +1,11 @@
-<p align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/264205199?v=4">
-</p>
-
 <h1> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-[![Github](https://img.shields.io/github/followers/duartealexa?label=Follow&style=social)](https://github.com/duartealexa)
+[![Github](https://img.shields.io/github/followers/duartealexa?label=Follow&style=social)](https://github.com/duartealexa) 
 
 <div size='20px'>
   Hi! My name is Alexa. Thank you for taking the time to visit my GitHub Profile 😄
 </div>
+
 
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"></h2>
 
