@@ -1,4 +1,4 @@
-<img width="1356" height="428" alt="image" src="https://github.com/user-attachments/assets/00043e0c-f9fb-4096-8fbc-245da246b0d8" /><div align="center">
+<div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=&reversa=true />
 </div>
 
@@ -16,7 +16,7 @@
 
 <h2> About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture> </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="20%" align="right" alt="Github" src="https://github.com/duartealexa/duartealexa/blob/main/Snoopy.jpg?raw=true" />
 
 - 🔭 Actualmente estoy aprendiendo a usar GitHub y Git
 - 🌱 Tecnologías que estoy explorando: Git, GitHub y más por venir
