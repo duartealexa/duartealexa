@@ -14,18 +14,16 @@
 </div>
 
 
-<h2> About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture> </h2>
-
+<h2> Sobre mi <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture> </h2>
 <img width="20%" align="right" alt="Github" src="https://github.com/duartealexa/duartealexa/blob/main/Snoopy.jpg?raw=true" />
 
-- 🔭 Actualmente estoy aprendiendo a usar GitHub y Git
-- 🌱 Tecnologías que estoy explorando: Git, GitHub y más por venir
+- 🔭 Estudiante de Tecnologia en Desarrollo de software 
+- 🌱 Actualmente estoy aprendiendo a usar GitHub y Git
 - 💬 Pregúntame sobre SQL, Java, C# y JavaScript
 - 🚀 Abierta a colaborar en proyectos interesantes
-- ⚡ Fun fact
+- ⚡ 
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
-
+<h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> </h2>
 <a href="https://github.com/duartealexa?tab=repositories&q=&type=&language=javascript&sort=">
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 </a>
@@ -45,8 +43,8 @@
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 </a>
 
-<h2> Connect with me 
-   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+<h2> Contacto  
+   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> 
 </h2>
 
 <a href="https://www.github.com/duartealexa">
