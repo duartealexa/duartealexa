@@ -1,8 +1,11 @@
-<div align="center">
+<img width="1356" height="428" alt="image" src="https://github.com/user-attachments/assets/00043e0c-f9fb-4096-8fbc-245da246b0d8" /><div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=&reversa=true />
 </div>
-<h1> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
+<h1 align="center">
+  Hello Fellow &lt;Developers/&gt;!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 [![Github](https://img.shields.io/github/followers/duartealexa?label=Follow&style=social )](https://github.com/duartealexa)
 
