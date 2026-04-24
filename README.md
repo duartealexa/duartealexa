@@ -1,6 +1,10 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=&reversa=true />
+</div>
 <h1> Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-[![Github](https://img.shields.io/github/followers/duartealexa?label=Follow&style=social )](https://github.com/duartealexa) 
+
+[![Github](https://img.shields.io/github/followers/duartealexa?label=Follow&style=social )](https://github.com/duartealexa)
 
 <div size='20px'>
   Hi! My name is Alexa. Thank you for taking the time to visit my GitHub Profile 😄
