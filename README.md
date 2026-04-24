@@ -22,7 +22,7 @@
 - 🌱 Tecnologías que estoy explorando: Git, GitHub y más por venir
 - 💬 Pregúntame sobre SQL, Java, C# y JavaScript
 - 🚀 Abierta a colaborar en proyectos interesantes
-- ⚡ Fun fact: Me gustan los girasoles 🌻
+- ⚡ Fun fact
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
@@ -45,10 +45,18 @@
   <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me 
+   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+</h2>
 
 <a href="https://www.github.com/duartealexa">
   <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/jotsary-duarte-2703072b6/">
+  <img width='32px' align='center' src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+<a href="https://www.instagram.com/duartealexa0504?igsh=MXY5Z3Z0aXIwa284ag==">
+  <img width='32px' align='center' src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
 </a>
 
 <br><br>
@@ -57,4 +65,3 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duartealexa&theme=tokyonight) | |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
